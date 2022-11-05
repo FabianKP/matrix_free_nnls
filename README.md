@@ -10,7 +10,7 @@ $
 using the accelerated projected gradient descent method with restart described 
 [here](https://angms.science/doc/NMF/nnls_pgd.pdf).
 
-The matrix $A$ can be provided by the user as `numpy`-array or as `scipy.sparse.linalg.LinearOperator`.
+The matrix $A$ can be provided by the user as `numpy.ndarray` or as `scipy.sparse.linalg.LinearOperator`.
 The latter is recommended for large-scale problems.
 
 Usage
