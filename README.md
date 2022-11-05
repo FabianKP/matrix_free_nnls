@@ -3,9 +3,9 @@
  
 This repository contains code to solve non-negative least-squares problems of the form
 
-$$$
+$$
 \min_{x \geq 0} ||Ax - b||_2^2
-$$$
+$$
 
 using the accelerated projected gradient descent method with restart described 
 [here](https://angms.science/doc/NMF/nnls_pgd.pdf).
