@@ -13,7 +13,7 @@ using the accelerated projected gradient descent method with restart described
 The matrix $A$ can be provided by the user as `numpy.ndarray` or as `scipy.sparse.linalg.LinearOperator`.
 The latter is recommended for large-scale problems.
 
-![image](https://github.com/FabianKP/matrix_free_nnls/examples/comparison.png)
+![image](https://github.com/FabianKP/matrix_free_nnls/blob/main/examples/comparison.png)
 
 Usage
 ---
