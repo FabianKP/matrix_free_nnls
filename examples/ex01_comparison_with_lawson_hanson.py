@@ -52,7 +52,7 @@ plt.xlabel("Dimension")
 plt.ylabel("Computation time [s]")
 plt.legend()
 plt.tight_layout()
-plt.savefig("comparsion_with_lawson_hanson.png")
+plt.savefig("comparison.png")
 plt.show()
 
 
