@@ -27,3 +27,7 @@ b = np.random.randn(100)
 
 x, res = solve_nnls(a, b, max_iter=1000)
 ```
+
+Installation
+---
+
