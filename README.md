@@ -25,7 +25,7 @@ from matrix_free_nnls import solve_nnls
 a = np.random.randn(100, 100)
 b = np.random.randn(100)
 
-x, res = solve_nnls(a, b, max_iter=1000)
+x, res = solve_nnls(a, b)
 ```
 
 Installation
