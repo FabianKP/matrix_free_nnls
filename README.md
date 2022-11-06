@@ -31,3 +31,8 @@ x, res = solve_nnls(a, b, max_iter=1000)
 Installation
 ---
 
+You can download the wheel file 
+[matrix_free_nnls-1.0-py3-none-any.whl](https://github.com/FabianKP/matrix_free_nnls/blob/main/dist/matrix_free_nnls-1.0-py3-none-any.whl) and then pip-install:
+```bash
+pip install matrix_free_nnls-1.0-py3-none-any.whl
+```

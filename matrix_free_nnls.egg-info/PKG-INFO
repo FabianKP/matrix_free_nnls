@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: matrix-free-nnls
+Version: 1.0
+Summary: Implementation of accelerated projected gradient descent for matrix-free non-negative least-squares problems.
+Home-page: https://github.com/FabianKP/matrix_free_nnls
+Author: FabianKP
+Author-email: 
+License: MIT
+License-File: LICENSE

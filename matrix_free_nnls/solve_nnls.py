@@ -8,9 +8,7 @@ from scipy.sparse.linalg import LinearOperator, aslinearoperator
 from scipy.linalg.interpolative import estimate_spectral_norm
 from typing import Tuple, Union
 
-from time import sleep
-
-CTOL = 1e-10
+CTOL = 1e-15
 
 
 def solve_nnls(a: Union[np.array, LinearOperator], b: np.array, with_restart: bool = True, atanorm: float = None,

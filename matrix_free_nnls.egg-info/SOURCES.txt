@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+matrix_free_nnls/__init__.py
+matrix_free_nnls/solve_nnls.py
+matrix_free_nnls.egg-info/PKG-INFO
+matrix_free_nnls.egg-info/SOURCES.txt
+matrix_free_nnls.egg-info/dependency_links.txt
+matrix_free_nnls.egg-info/requires.txt
+matrix_free_nnls.egg-info/top_level.txt
+test/test_solve_nnls.py
